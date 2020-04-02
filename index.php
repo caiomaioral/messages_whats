@@ -9,9 +9,7 @@ $abu  = '4891616347';
 $jhon = '11980734441';
 
 $message  =  'http://agiledevelopment.com.br/messages_whats/files/receipt.pdf';
-$phone    =  '55' . $abu;
-
-
+$phone    =  '55' . $caio;
 
 $data = json_encode(
     array(
@@ -67,6 +65,5 @@ $response = file_get_contents($url, false, $options);
 echo $response; 
 
 exit;
-
 
 ?>
