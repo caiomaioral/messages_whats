@@ -3,12 +3,13 @@
 $apiURL   =  'https://eu45.chat-api.com/instance113069/'; 
 $token    =  '09loia222u00jbus';
 
-$caio = '11981866702';
-$gabi = '11984162831';
-$abu  = '4891616347';
-$jhon = '11980734441';
+$caio     =  '11981866702';
+$gabi     =  '11984162831';
+$abu      =  '4891616347';
+$jhon     =  '11980734441';
+$everton  =  '11947809056';
 
-$message  =  'http://agiledevelopment.com.br/messages_whats/files/receipt.pdf';
+$message  =  'http://agiledevelopment.com.br/messages_whats/files/informativo.pdf';
 $phone    =  '55' . $caio;
 
 $data = json_encode(
